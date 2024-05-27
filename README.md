@@ -1,4 +1,4 @@
-# ft_printf_github_assessment
+# ft_printf // Effective Use of Git && Github
 
 ## Overview
 
