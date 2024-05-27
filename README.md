@@ -12,7 +12,7 @@
 - [Installation](#installation)
 - [Development](#development)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Project Description
 
@@ -42,7 +42,7 @@ int main() {
     ft_printf("Hello, %s!\n", "world");
     return 0;
 }
-
+```
 ## Installation
 
 1. Clone the repository:
@@ -67,41 +67,39 @@ make
 
 ## Development
 
-# Repository Setup
+### Repository Setup
 This repository follows best practices for Git and GitHub. The key elements include:
 
-Clear and concise commit messages: Commit messages should be meaningful and describe the changes made.
-Feature branches: Use separate branches for new features and bug fixes.
-Pull requests: All changes are reviewed through pull requests to ensure code quality.
-Issue tracking: Use GitHub issues to track bugs and feature requests.
-Git Workflow
+  - **Clear and concise commit messages:** Commit messages should be meaningful and describe the changes made.
+  - **Feature branches:** Use separate branches for new features and bug fixes.
+  - **Pull requests:** All changes are reviewed through pull requests to ensure code quality.
+  - **Issue tracking:** Use GitHub issues to track bugs and feature requests.
+
+### Git Workflow
+
 Create a new branch for your feature or bug fix:
 
-sh
-Copy code
-git checkout -b feature-name
+    git checkout -b feature-name
+
 Make your changes and commit them with descriptive messages:
 
-sh
-Copy code
-git commit -m "Add feature description"
+    git commit -m "Add feature description"
+
 Push your branch to the remote repository:
 
-sh
-Copy code
-git push origin feature-name
+    git push origin feature-name
+
 Open a pull request on GitHub and request a review.
 
-Contributing
+## Contributing
+
 Contributions are welcome! Please follow the guidelines below to ensure smooth collaboration:
 
-Fork the repository.
-Create a new branch for your changes.
-Ensure your code follows the project's coding standards.
-Write clear and concise commit messages.
-Submit a pull request with a detailed description of your changes.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+  - Fork the repository.
+  - Create a new branch for your changes.
+  - Ensure your code follows the project's coding standards.
+  - Write clear and concise commit messages.
+  - Submit a pull request with a detailed description of your changes.
 
-Contact
-For any questions or feedback, please open an issue on GitHub or contact me at your-email@example.com.
+## Contact
+For any questions or feedback, please open an issue on GitHub or contact me at salim.hamzaoui.pro@outlook.com .
