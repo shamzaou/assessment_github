@@ -1,5 +1,7 @@
 # ft_printf // Effective Use of Git && Github
 
+![image](https://github.com/shamzaou/ft_printf_github_assessment/assets/63689553/2c37dd1f-f497-4b13-b7a2-77239d5f8fb7)
+
 ## Overview
 
 `ft_printf` is a project from the 42 School curriculum designed to replicate the functionality of the standard `printf` function in C. This project aims to deepen understanding of variadic functions, formatted output, and overall C programming.
